@@ -1,9 +1,9 @@
 README
 ------
 
-Warning:
+_Warning:
 Automatically exported from "code.google.com/p/rx-joystick-arduino",
-so some things might be wrongly converted.
+so some things might be wrongly converted._
 
 All documentation is provided on the wiki pages "https://github.com/Eliasvan/rx-joystick-arduino/wiki".
 
